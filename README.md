@@ -1,13 +1,13 @@
 ## Elijah Coker
 
-#### Repo: 2143 OOP
+#### Repo: 2143-OOP-Eli
 
 #### Email: ercoker1226@my.msutexas.edu
 
 #### Image:
 
-![FB_IMG_1737750683554](https://github.com/user-attachments/assets/812ca1bf-3b03-4af0-b335-e098071098bc)
+<img width="484" alt="image" src="https://github.com/user-attachments/assets/812ca1bf-3b03-4af0-b335-e098071098bc">
 
 #### Avatar:
 
-![TBMBG710S-U089SDP162Y-589b516d0747-512](https://github.com/user-attachments/assets/24f2cded-3efd-450c-9ab9-b6031b0b790f)
+<img width="242" alt="image" src="https://github.com/user-attachments/assets/f5128f33-8c55-4fc4-a90c-17f3c5360d98">
